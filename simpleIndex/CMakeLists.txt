@@ -21,7 +21,6 @@ add_executable(simpleIndex
         src/mysql.C
         src/onebar.C
         src/symbol.C
-        src/json.hpp
         src/iSax.cpp
         src/EnvelopGen.cpp
         src/breakpoints.cpp

@@ -1,5 +1,5 @@
 //
-// Created by martin on 04/05/2020.
+// Created by martin & balazs on 04/05/2020.
 //
 
 #include "syntheticData.h"

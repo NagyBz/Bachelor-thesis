@@ -1,5 +1,5 @@
 //
-// Created by martin on 03/04/2020.
+// Created by martin & balazs on 03/04/2020.
 //
 
 #include "binarySearchTree.h"
