@@ -1,0 +1,3 @@
+/home/martiska/bigd/simpleIndex/build/CMakeFiles/rebuild_cache.dir
+/home/martiska/bigd/simpleIndex/build/CMakeFiles/simpleIndex.dir
+/home/martiska/bigd/simpleIndex/build/CMakeFiles/edit_cache.dir
